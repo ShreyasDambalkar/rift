@@ -4,6 +4,8 @@
 
 PharmaGuard is a comprehensive pharmacogenomics (PGx) platform designed to analyze patient genetic data (VCF files) and predict drug-gene interactions. It leverages a dual-engine approach combining clinical guidelines (CPIC) with machine learning to provide accurate medication safety assessments.
 
+websitel link - http://13.201.6.177:5173/
+
 ## 🚀 Key Features
 
 ### 🔬 Advanced Genetic Analysis
